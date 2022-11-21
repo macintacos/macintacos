@@ -1,3 +1,8 @@
-I work on Cloud Operations for MongoDB.
+I'm a Staff Engineer on the Cloud Operations Engineering team at [MongoDB](https://www.mongodb.com/). I help support [Atlas](https://www.mongodb.com/atlas).
 
-If you find a really great notes app, I'm literally desperate to try it right now. Please send help.
+Todos:
+
+- [ ] Find a not taking application that has no flaws.
+- [ ] Find a task manager that just gets out of my way when not in use.
+- [ ] Set up a water automation system for my plants.
+- [x] Update my GitHub README.
