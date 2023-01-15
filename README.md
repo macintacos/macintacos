@@ -6,3 +6,5 @@ Todos:
 - [ ] Find a task manager that just gets out of my way when not in use.
 - [ ] Set up a water automation system for my plants.
 - [x] Update my GitHub README.
+
+<a rel="me" href="https://mastodon.social/@macintacos">Mastodon</a>
